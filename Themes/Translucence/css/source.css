@@ -1,8 +1,8 @@
 :root {
   --app-bg: rgba(0,0,0,0);
   --app-blur: 6px;
-  --app-margin: 24px;
-  --app-radius: 10px;
+  --app-margin: 0px;
+  --app-radius: 0px;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
   --accent-hue: 156;
